@@ -1,0 +1,18 @@
+Package: zls
+Version: VERSION
+Architecture: ARCH
+Maintainer: Zigtools <https://github.com/zigtools>
+Vendor: Joe Koop <https://github.com/jkoop>
+Installed-Size: SIZE
+Depends:
+Conflicts:
+Breaks:
+Replaces:
+Section: devel
+Priority: optional
+Homepage: https://github.com/zigtools/zls
+Description: Zig language server
+ A Zig language server supporting Zig developers with features like
+ autocomplete and goto definition
+ .
+ Packaged for Debian by Joe Koop <https://github.com/jkoop>
